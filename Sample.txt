@@ -1,1 +1,2 @@
 01. This is my first commit on GitHub.
+I'm doing this on my own now.
